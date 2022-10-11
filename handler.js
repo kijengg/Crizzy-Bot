@@ -231,7 +231,7 @@ switch(command){
 				footerr = `Peringatan : Dilarang spam command/apapun ke bot!, dikarena mengakibatkan bot eror!\n© 2022 Fadhil Graphy`
 				anu = `${fke}Hi ${m.pushName} 👋, i'am crizzy!${fke}
 
-╭──❲ *CRIZZY BOT - MD* ❳
+╭──❲ KYZHE BOT VIP 🗿🙏 ❳
 │
 │ *Info*
 │> *Nama :* _「 ${m.pushName} 」_
@@ -404,11 +404,11 @@ switch(command){
 					
 *⚠️ Nomor :*
 (Dana, OVO, GoPay, ShopeePay)
-	╰≻ 083102650464
-(Telkomsel)
-	╰≻ 082135724604
-(Qris)
-	╰≻ Click the button below. 
+	╰≻ ---
+(SMARTFREN)
+	╰≻ 088991344802
+(AXIS)
+	╰≻ 083146947747 
 
 *💯 Keuntungan :*
 > Add ke group max 2 group
@@ -754,12 +754,12 @@ break
 // follow https://github.com/Chandra-XD
 case 'biodatacookxkvz': {
 nduwur = `┍┈–––• *BIODATA OWNER*
-┆⫹⫺ Nama : -
-┆⫹⫺ Hobby : -
-┆⫹⫺ Status : -
-┆⫹⫺ Birthday : -
-┆⫹⫺ Address : -
-┆⫹⫺ Hobby : -
+┆⫹⫺ Nama : King Kije
+┆⫹⫺ Hobby : Garnuk
+┆⫹⫺ Status : -1 lopers
+┆⫹⫺ Birthday : kepo lu mek
+┆⫹⫺ Address : BANYUWANGI ID
+┆⫹⫺ Hobby : Nomor 2
 └––––––––––––––––––·•
 
 ┍┈––––––• *SKILLS*
@@ -771,8 +771,8 @@ ngisor = `Social Media :
 YouTube : -
 Instragram : -
 TikTok : -
-Github : -
-Email : -
+Github : https://github.com/kijengg
+Email : maulanadisqi@gmail.com
 Whatsapp : -` // tambahin sendiri anjeng
 btnm = [{buttonId: `nmrownxnjayxz`, buttonText: {displayText: 'Owner Number'}, type: 1}]
 for (let i of profilebio) {
